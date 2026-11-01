@@ -1,6 +1,6 @@
 # MIT 8103 Advanced Database Systems
 
-**Airline / Flight Booking System** · Brendan Asogwa · Student ID 30161991
+**Airline / Flight Booking System** · Asogwa Brendan · Student ID 30161991
 
 ## Case study
 
