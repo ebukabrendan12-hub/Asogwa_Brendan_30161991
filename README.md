@@ -1,6 +1,6 @@
 # Airline / Flight Booking System
 
-Brendan Asogwa · Student ID 30161991
+Asogwa Brendan · Student ID 30161991
 
 The portfolio uses fictional records for Airline / Flight Booking System.
 
